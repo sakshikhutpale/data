@@ -36,4 +36,10 @@
         "position":"devloper",
         "salary":"rs 25000"
     }
+    {
+        "id":7,
+        "name":"tejas",
+        "position":"devloper",
+        "salary":"rs 25000"
+    }
 ]
