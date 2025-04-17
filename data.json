@@ -1,0 +1,39 @@
+[
+
+    {
+        "id":1,
+        "name":"tejas",
+        "position":"devloper",
+        "salary":"rs 25000"
+    },
+    {
+        "id":2,
+        "name":"tejas",
+        "position":"devloper",
+        "salary":"rs 25000"
+    },
+    {
+        "id":3,
+        "name":"tejas",
+        "position":"devloper",
+        "salary":"rs 25000"
+    },
+    {
+        "id":4,
+        "name":"tejas",
+        "position":"devloper",
+        "salary":"rs 25000"
+    },
+    {
+        "id":5,
+        "name":"tejas",
+        "position":"devloper",
+        "salary":"rs 25000"
+    },
+    {
+        "id":6,
+        "name":"tejas",
+        "position":"devloper",
+        "salary":"rs 25000"
+    }
+]
